@@ -16,5 +16,5 @@ It adds a content warning to posts that are in specific categories. The warning 
 You can change the 'example-category' in the code to the category you want to show the warning for. You can also modify the warning message to suit your needs.
 
 Credits:
-- VolkanSah
-- OpenAi-GPT4
+- [VolkanSah](https://github.com/volkansah)
+- [OpenAi-GPT4](https://openai.com)
