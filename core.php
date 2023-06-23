@@ -1,19 +1,13 @@
 <?php
-/*
- * Plugin Name:       warning-redirect
- * Plugin URI:        https://github.com/VolkanSah/warning-redirect
- * Description:       Effortlessly manage and respond to comments on your WordPress site with the power of AI using the ChatGPT Comments Reply Plugin
- * Version:           1.0
- * Requires at least: 5.2
- * Requires PHP:      7.4
- * Author:            S. Volkan Sah
- * Author URI:        https://volkansah.github.com
- * License:           GPL3
- * License URI:       license.txt
- * Update URI:        https://github.com/VolkanSah/warning-redirectlatest.zip
- * Text Domain:       aicc-aicr
- * Domain Path:       /languages
+/**
+ * Plugin Name: Content Warning Plugin
+ * Plugin URI: https://github.com/VolkanSah/Warning-function-for-WordPress/
+ * Description: This plugin adds a content warning to posts in specific categories.
+ * Version: 1.0
+ * Author: VolkanSah, OpenAI's ChatGPT
+ * Author URI: https://github.com/VolkanSah/
  */
+
 function content_warning_filter($content) {
     global $post;
     if (has_category('was-wuerde-onkel-volkan-davon-halten', $post->ID) && is_single()) {
