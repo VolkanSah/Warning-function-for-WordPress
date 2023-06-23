@@ -2,7 +2,7 @@
 
 This is a simple WordPress plugin developed by Volkan Sah and OpenAI's ChatGPT (I was realy to lazy this morning!). After 2 Mistakes with GPT, we get it. Its funy for simple functions!
 
-It adds a content warning to posts that are in specific categories. The warning informs readers that the content may not be suitable for children or teenagers under 16 years old, and it asks them to confirm if they want to continue reading.
+It adds a content warning to posts that are in specific categories. The warning informs readers with your Text and it asks them to confirm if they want to continue reading.
 
 ## How to use
 
@@ -14,3 +14,7 @@ It adds a content warning to posts that are in specific categories. The warning 
 ## Customize
 
 You can change the 'example-category' in the code to the category you want to show the warning for. You can also modify the warning message to suit your needs.
+
+Credits:
+- VolkanSah
+- OpenAi-GPT4
