@@ -10,7 +10,7 @@
 
 function content_warning_filter($content) {
     global $post;
-    if (has_category('was-wuerde-onkel-volkan-davon-halten', $post->ID) && is_single()) {
+    if (has_category('example-category', $post->ID) && is_single()) {
         // Überprüfen, ob die Warnung bereits gesehen wurde
         if (!isset($_GET['warnung_gelesen'])) {
         $content = '<p>The following post contains content that may not be suitable for all audiences. Reader discretion is advised. <a href="'.get_permalink($post->ID).'?warnung_gelesen=1">Klicken Sie hier, um weiterzulesen.</a></p>';
