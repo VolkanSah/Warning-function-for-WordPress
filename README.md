@@ -7,7 +7,7 @@ It adds a content warning to posts that are in specific categories. The warning 
 ## How to use
 
 1. Download or clone this repository.
-2. Upload the `content-warning-plugin.php` to the `/wp-content/plugins/` directory of your WordPress installation.
+2. Upload the `core.php` to the `/wp-content/plugins/yourpluginame` directory of your WordPress installation.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. To add the warning, simply add your post to the 'example-category' category.
 
