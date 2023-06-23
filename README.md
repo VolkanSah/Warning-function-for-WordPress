@@ -1,4 +1,4 @@
-# Content Warning Plugin
+# Content Warning Plugin for WordPress
 
 This is a simple WordPress plugin developed by Volkan Sah and OpenAI's ChatGPT (I was realy to lazy this morning!). After 2 Mistakes with GPT, we get it. Its funny for simple functions! Free for the world, make what you want with this Plugin 😃
 
