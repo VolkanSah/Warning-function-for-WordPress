@@ -14,7 +14,6 @@
  * Text Domain:       aicc-aicr
  * Domain Path:       /languages
  */
-<?php
 function content_warning_filter($content) {
     global $post;
     if (has_category('was-wuerde-onkel-volkan-davon-halten', $post->ID)) {
