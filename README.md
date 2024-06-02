@@ -14,4 +14,3 @@ You can change the 'example-category' in the code to the category you want to sh
 
 Credits:
 - [VolkanSah](https://github.com/volkansah)
-- [OpenAi-GPT4](https://openai.com)
