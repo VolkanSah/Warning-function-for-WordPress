@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/VolkanSah/Warning-function-for-WordPress/
  * Description: This plugin adds a content warning to posts in specific categories.
  * Version: 1.0
- * Author: VolkanSah, OpenAI's ChatGPT
+ * Author: Volkan Kücükbudak
  * Author URI: https://github.com/VolkanSah/
  */
 
