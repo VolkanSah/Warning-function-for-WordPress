@@ -1,4 +1,4 @@
-# Content Warning Plugin for WordPress
+# Content Warning Plugin for WordPress v2 dev
 It adds a content warning to posts that are in specific categories. The warning informs readers with your Text and it asks them to confirm if they want to continue reading.
 
 ## How to use
