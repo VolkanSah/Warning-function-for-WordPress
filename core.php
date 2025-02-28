@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Content Warning Plugin
+ * Plugin Name: Content Warning Plugin -German Version
  * Plugin URI: https://github.com/VolkanSah/Warning-function-for-WordPress/
  * Description: Dieses Plugin fügt Beiträgen in einer ausgewählten Kategorie eine Content-Warnung hinzu.
  * Version: 1.1
